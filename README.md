@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [aladdinshut](https://aladdinshut.com/)
 
-- 👨‍💻 All of my projects are available at (https://www.linkedin.com/in/maynuddin-bhuiyan/)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/maynuddin-bhuiyan?tab=repositories)
 
 
 
@@ -27,4 +27,6 @@
 <a href="https://linkedin.com/in/maynuddin-bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maynuddin-bhuiyan" height="30" width="40" /></a>
 <a href="https://fb.com/mdmyanuddin.bhuiyan.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmyanuddin.bhuiyan.5" height="30" width="40" /></a>
 </p>
+
+
 📫 How to reach me **dev@maynuddin.com**
