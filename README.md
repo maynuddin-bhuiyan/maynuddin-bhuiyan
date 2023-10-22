@@ -11,4 +11,3 @@ Best regards,
 
 [Maynuddin Bhuiyan]
 
-<a href="https://github.com/yourusername" style="background-color: #ffffff; color: #ffffff; padding: 10px 20px; border-radius: 5px; text-align: center; text-decoration: none; display: inline-block;">Visit My Profile</a>
