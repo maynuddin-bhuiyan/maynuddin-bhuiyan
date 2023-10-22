@@ -10,3 +10,5 @@ Thank you for considering my application. I am excited about possibly working wi
 Best regards,
 
 [Maynuddin Bhuiyan]
+
+<a href="https://github.com/yourusername" style="background-color: #yourcolor; color: #ffffff; padding: 10px 20px; border-radius: 5px; text-align: center; text-decoration: none; display: inline-block;">Visit My Profile</a>
