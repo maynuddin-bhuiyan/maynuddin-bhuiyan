@@ -1,7 +1,7 @@
 <h1 align="center">Greetings, 👋 I'm Maynuddin Bhuiyan.</h1>
 <h3 align="center">Expert website developer, providing full-stack development services.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maynuddin-bhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="maynuddin-bhuiyan" /> </p>
+
 <div align="center">
   Ask me about **Greetings! I'm a dedicated Full Stack Developer with 5 years of web development experience. I specialize in website and web application development. Why Choose Me for Your Web Journey? I've built 200+ websites in 5 years with no complaints. Trust me, you'll like my work. I'm always available for excellent assistance and will adjust my work until you're satisfied. My Toolbox, Need a website? From personal blogs to e-commerce sites and corporate web societies, I create visually pretty and user-friendly websites that showcase your brand's unique attributes. I specialize in creating web applications that are both functional and user-friendly. As a developer, My journey reads like modern technology React.js, Next.js, Redux, JavaScript, Node.js, and Python to build user-friendly interfaces and strong back-end systems. I can work with MySQL, MongoDB, or PostgreSQL to design the perfect database for your needs. Integrating third-party APIs can improve system functionality without starting from scratch. Let's start your web project today! Contact me for top-notch results, whether it's a small website or a complex web application.**
 </div>
