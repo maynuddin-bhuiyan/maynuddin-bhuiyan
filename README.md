@@ -8,5 +8,5 @@ I hope you are doing well. I am thrilled to come across your project, as it alig
 
 Thank you for considering my application. I am excited about possibly working with you and bringing your vision to life.
 Best regards,
-[![Visit My Profile](https://example.com/button.png)](https://github.com/yourusername)
+
 [Maynuddin Bhuiyan]
