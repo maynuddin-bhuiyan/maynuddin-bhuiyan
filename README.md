@@ -3,7 +3,6 @@
 <div > 
 
 </div>
-<img src="[img_girl.jpg](https://media.licdn.com/dms/image/D5616AQHEWC6vsgK6JQ/profile-displaybackgroundimage-shrink_350_1400/0/1675192937276?e=1698278400&v=beta&t=h6ECuarsSrjuEUt7VX-ykUREnB-bT-35vuOlh1G3dXg)" alt="Girl in a jacket" width="100%" height="600"> 
 I have 2 years of experience as a React.js Developer at <a href="https://www.mycareerprops.com/">Career Props</a>. There I have worked on a number of projects using a list of the latest technologies like React.js, Next.js, Rredus, Material UI, tailwind CSS, and more. Currently, I am working at <a href="https://tiggzyit.com">Tiggzyit</a> as a software developer.
 I hope you are doing well. I am thrilled to come across your project, as it aligns perfectly with my expertise and passion for React/ Next.js.The best part is, I can start working on it right away.
 
