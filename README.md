@@ -29,4 +29,4 @@
 </p>
 
 
-📫 How to reach me **dev@maynuddin.com**
+📫 How to reach me **devmaynuddin@gmail.com**
