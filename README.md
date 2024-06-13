@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [ecommerce](https://ecommerce-frontend-fahimcc.vercel.app/)
 
-- 👯 I’m looking to collaborate on [careerprops](https://www.mycareerprops.com/)
+- 👯 I’m looking to collaborate on [careerprops](https://career-props.vercel.app)
 
 - 🤝 I’m looking for help with [aladdinshut](https://aladdinshut.com/)
 
