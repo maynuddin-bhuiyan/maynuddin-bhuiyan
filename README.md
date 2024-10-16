@@ -7,7 +7,7 @@
 <p>I'm a dedicated Full Stack Developer with 5 years of web development experience. I specialize in website and web application development. Why Choose Me for Your Web Journey? I've built 200+ websites in 5 years with no complaints. Trust me, you'll like my work. I'm always available for help and will adjust my work until you're satisfied. My Toolbox, would you happen to need a website? From personal blogs to e-commerce sites and corporate web societies, I create visually pretty and user-friendly websites that showcase your brand's unique attributes. I specialize in creating web applications that are both functional and user-friendly. As a developer, My journey reads like modern technology React.js, Next.js, Redux, JavaScript, Node.js, and Python to build user-friendly interfaces and strong back-end systems. I can work with MySQL, MongoDB, or PostgreSQL to design the perfect database for your needs. Integrating third-party APIs can improve system functionality without starting from scratch. Let's start your web project today! Contact me for top-notch results, whether it's a small website or a complex web application.</p> </div>
 
 <h2 align="left">My invigorating daily routine:</h2>
-<div>
+<div style="width: 100%; text-align: center;">
   <img align="left" src="https://camo.githubusercontent.com/bc7101d34b39d58b4434077ada0166ae77d59894537282ac883f5b824491e38b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376c744e376c436746324d51452f67697068792e676966" alt="dev@maynuddin.com" height="250" width="250" />
 </div>
 
