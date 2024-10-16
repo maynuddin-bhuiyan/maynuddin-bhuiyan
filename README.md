@@ -8,7 +8,7 @@
 
 <h2 align="left">My invigorating daily routine:</h2>
 <div style="width: 100%; text-align: center;">
-  <img align="left" src="https://camo.githubusercontent.com/bc7101d34b39d58b4434077ada0166ae77d59894537282ac883f5b824491e38b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376c744e376c436746324d51452f67697068792e676966" alt="dev@maynuddin.com" height="250" width="250" />
+  <img align="left" src="https://camo.githubusercontent.com/bc7101d34b39d58b4434077ada0166ae77d59894537282ac883f5b824491e38b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376c744e376c436746324d51452f67697068792e676966" alt="dev@maynuddin.com" height="250" width="500" />
 </div>
 
 
