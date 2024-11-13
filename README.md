@@ -40,9 +40,8 @@ If you're looking for similar services, please don't hesitate to contact me on F
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev@maynuddin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev@maynuddin.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maynuddin-bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maynuddin-bhuiyan" height="30" width="40" /></a>
-<a href="https://fb.com/mdmyanuddin.bhuiyan.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmyanuddin.bhuiyan.5" height="30" width="40" /></a>
+<a href="[https://www.facebook.com/devmaynuddin]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmyanuddin.bhuiyan.5" height="30" width="40" /></a>
 </p>
 
 
