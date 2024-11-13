@@ -27,7 +27,7 @@ If you're looking for similar services, please don't hesitate to contact me on F
 
 - 📝 Read My Thoughts: Check out my latest insights and stories on my blog at [blog.maynuddin](https://blog.maynuddin.com/)
 
-- 🚀 Building Now: Currently developing something exciting at [CodeThinker](https://codethinker.io/) Stay tuned!
+- 🚀 Currently working on [CodeThinker](https://codethinker.io/) Stay tuned!
 
 - 🤝 Collaboration Welcome: I'm eager to collaborate on the career growth platform [Career Props](https://www.linkedin.com/company/mycareerprops/)
 
