@@ -46,7 +46,7 @@ If you're looking for similar services, please don't hesitate to contact me on F
 </p>
 
 
-📫 How to reach me **devmaynuddin@gmail.com**
+📫 How to reach me **hellomaynuddin@gmail.com**
 
 <h2 align="left">My invigorating daily routine:</h2>
 <div style="width: 100%; text-align: center;">
